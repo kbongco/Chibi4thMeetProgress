@@ -1,0 +1,2 @@
+class Deadlift < ApplicationRecord
+end
