@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2023_04_17_130947) do
+ActiveRecord::Schema.define(version: 2023_04_26_145115) do
 
   create_table "benches", force: :cascade do |t|
     t.integer "weight"
